@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name"><font medicolor="#fff">Medi\&#39;scan</font></string>
+    <string name="tab_text_1">Accueil</string>
+    <string name="tab_text_2">Calendrier</string>
+    <string name="infomedoc">Inconnu</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="n_oubliez_pas_de_mettre_un_rappel_de_vos_prises_de_m_dicaments">N\'oubliez pas de mettre un rappel de vos prises de médicaments</string>
+    <string name="fiche_personelle">Fiche personelle</string>
+    <string name="quitter">Quitter</string>
+    <string name="nom">Nom</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="num_ro_de_t_l_phone">Numéro de téléphone</string>
+    <string name="num_ro_de_t_l_phone_urgence">Numéro de téléphone urgence</string>
+    <string name="num_ro_d_assurance_maladie">Numéro d\'assurance maladie</string>
+    <string name="num_ro_de_votre_m_decin_traitant">Numéro de votre médecin traitant</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="fiche_personnel">Fiche personnel</string>
+    <string name="cr_er_votre_profil_ici_pour_qu_il_soit_accessible_en_cas_d_urgence">Créer votre profil ici pour qu\'il soit accessible en cas d\'urgence</string>
+    <string name="groupe_sanguin">Groupe sanguin</string>
+    <string name="date_de_naissance">Date de naissance</string>
+    <string name="donneur_d_organe">Donneur d\'organe</string>
+    <string name="info_m_dicale">Informations médicales</string>
+    <string name="diab_te">Diabète</string>
+    <string name="cancer">Cancer</string>
+    <string name="grossesse">Grossesse</string>
+    <string name="sida">SIDA</string>
+    <string name="coronavirus">Coronavirus</string>
+    <string name="hemophilie">Hemophilie</string>
+    <string name="asthme">Asthme</string>
+    <string name="affection_cardiaque">Affection cardiaque</string>
+    <string name="handicap_moteur">Handicap moteur</string>
+    <string name="entrer_le_nom_de_votre_m_dicament">Entrer le nom de votre médicament</string>
+    <string name="confirmer">Confirmer</string>
+    <string name="annuler">Annuler</string>
+</resources>
